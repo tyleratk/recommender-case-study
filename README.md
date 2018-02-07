@@ -15,7 +15,7 @@ To measure accuracy, we examined the root mean squared error (RMSE). The RMSE of
 ![](images/rec.png)  
   
   
-### Other reasons for SVD
+## Other reasons for SVD
 - The model is straight out of the box (no tuning) and can be improved even more with more domain knowledge
 - Every percent improvement can lead to happier customers, and more sales
 - Can A/B test before deploying to all customers
